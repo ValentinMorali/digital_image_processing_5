@@ -86,8 +86,6 @@ ImgCuantif03:
 
 INFORME COMPLETO
 ----------------
-El documento principal es: informe_practica_5.docx
-
 Este informe incluye:
 1. Introduccion teorica de ambos metodos
 2. Metodologia detallada
@@ -95,10 +93,6 @@ Este informe incluye:
 4. Tablas con metricas cuantitativas
 5. Analisis de parametros
 6. Conclusiones personales
-
-El informe esta escrito con lenguaje natural de estudiante de ingenieria,
-explicando los conceptos de manera clara y sin usar emojis.
-
 
 IMAGENES GENERADAS
 ------------------
